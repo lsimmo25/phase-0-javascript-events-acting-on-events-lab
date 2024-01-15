@@ -22,7 +22,7 @@ function moveDodgerLeft() {
     if (left < maxWidth) {
         dodger.style.left = `${left + 1}px`;
     }
-
+//test
   }
 
   document.addEventListener("keydown", function (e) {
